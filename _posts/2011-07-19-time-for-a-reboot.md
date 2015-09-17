@@ -5,6 +5,7 @@ description: "What a better way to get a new perspective to life than by strippi
 category: Travel
 tags: [travel, japan, feeling]
 modified: 2015-02-28
+published: false
 
 imagefeature: japan2011-01.jpg
 comments: false
