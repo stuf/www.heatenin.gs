@@ -4,7 +4,7 @@ title: "Time for a (Re)boot"
 description: "What a better way to get a new perspective to life than by stripping yourself of your comfort zone?"
 category: Travel
 tags: [travel, japan, feeling]
-#modified: 2015-02-28
+modified: 2015-02-28
 
 imagefeature: japan2011-01.jpg
 comments: false
@@ -24,7 +24,7 @@ This post was originally written a few days ago, sorry about that. Haven’t rea
 
 I’ll start straight out; the past days after arriving at Minga Village have been the best days of my life so far. There’s only a handful of days left until my work ends there and the second part of my trip begins, but in a way, I’d like to extend my stay at the farm.
 
-Due to the lack of updates recently, I’ll give you the full run-up of what’s gone down. I’ve been doing voluntary work, via an organization called   2qWWOOF, in Minga Village, located in Ohmi-Takashima, next to lake Biwa.
+Due to the lack of updates recently, I’ll give you the full run-up of what’s gone down. I’ve been doing voluntary work, via an organization called WWOOF, in Minga Village, located in Ohmi-Takashima, next to lake Biwa.
 
 <figure class="half">
 	<a href="{{ site.url }}/images/japan2011/japan2011-04.jpg">
